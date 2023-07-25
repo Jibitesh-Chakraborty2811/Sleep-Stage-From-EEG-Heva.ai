@@ -7,7 +7,7 @@ These 50000 data points has an equal distribution of the stages of Sleep
 **1 = Sleep Stage N1**\
 **2 = Sleep Stage N2**\
 **3 = Sleep Stage N3**\
-**4 = Sleep Stage REM**\
+**4 = Sleep Stage REM**
 
 Our Model achieves an high accuracy of **98.199%**
 
